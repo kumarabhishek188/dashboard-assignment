@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## AI Chat Assistant
 
-## Getting Started
+---
+**Phoenix Baker** _(5 min ago)_  
+> What are the requirements for opening a new store?
 
-First, run the development server:
+**Koray Okumus** _(4 hr ago)_  
+> How do I manage inventory effectively?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<div align="center">
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+<div style="background:#fff;border-radius:0.5rem;box-shadow:0 2px 4px rgba(0,0,0,0.1);padding:2.5rem;max-width:24rem;">
+  <div style="background:#DBEAFE;border-radius:9999px;display:inline-block;padding:0.75rem;margin-bottom:1.5rem;">
+    <!-- Chat Icon SVG -->
+    <svg xmlns="http://www.w3.org/2000/svg" style="height:2.5rem;width:2.5rem;color:#3B82F6;" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8h2a2 2 0 012 2v10l-4-4H7a2 2 0 01-2-2V8a2 2 0 012-2h2" />
+    </svg>
+  </div>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+  ### Welcome to the AI Chat Assistant
 
-## Learn More
+  <div style="position:relative;margin-top:1.5rem;">
+    <input
+      type="text"
+      placeholder="Ask your question here…"
+      style="width:100%;border:1px solid #D1D5DB;border-radius:9999px;padding:0.75rem 3rem 0.75rem 1.5rem;font-size:0.875rem;outline:none;"
+    />
+    <button style="position:absolute;right:0.75rem;top:50%;transform:translateY(-50%);background:none;border:none;cursor:pointer;color:#9CA3AF;">
+      <!-- Send Icon (FiSend) -->
+      ✉️
+    </button>
+  </div>
+</div>
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+</div>
