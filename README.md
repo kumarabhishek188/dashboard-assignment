@@ -62,6 +62,7 @@ This app is designed for seamless deployment on Vercel:
 2. Sign in at [vercel.com](https://vercel.com) and import your project.  
 3. Vercel will auto-detect Next.js—just click **Deploy**.  
 4. Your dashboard will be live at [https://dashboar-assignment.app](https://dashboard-assignment-weld.vercel.app/).
+5. Watch the full video on Loom: https://www.loom.com/share/39bbca0cc556441983475679cacab976?sid=2e7e3af4-0468-4235-afe5-eb06bea8e551
 
 Alternatively, use the Vercel CLI:
 
